@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1405913781 source:c:\users\aretha\dropbox\utfpr\disciplinas\2014\bcc35f - computação grática\códigos\projetomalhaspoligonais\05-03-malhaobj.cpp
+	<windows.h>
+	"bibutil.h"
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+
+1405541361 >
+
+1405537761 c:\users\aretha\dropbox\utfpr\disciplinas\2014\bcc35f - computação grática\códigos\projetomalhaspoligonais\bibutil.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<jpeglib.h>
+
+1405907810 source:c:\users\aretha\dropbox\utfpr\disciplinas\2014\bcc35f - computação grática\códigos\projetomalhaspoligonais\bibutil.cpp
+	<windows.h>
+	<math.h>
+	<string.h>
+	<vector>
+	"bibutil.h"
+
+1405911410 "
+
+1434398380 source:d:\dropbox\utfpr\disciplinas\2015\1 semestre\bcc35f - computação grática\códigos\projetomalhaspoligonais\05-03-malhaobj.cpp
+	<windows.h>
+	"bibutil.h"
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+
+1435610317 ut.h>
+
+1405537761 d:\dropbox\utfpr\disciplinas\2015\1 semestre\bcc35f - computação grática\códigos\projetomalhaspoligonais\bibutil.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<jpeglib.h>
+
+1405907810 source:d:\dropbox\utfpr\disciplinas\2015\1 semestre\bcc35f - computação grática\códigos\projetomalhaspoligonais\bibutil.cpp
+	<windows.h>
+	<math.h>
+	<string.h>
+	<vector>
+	"bibutil.h"
+
+1435610317 source:d:\dropbox\utfpr\disciplinas\2015\2 semestre\bcc35f - computação gráfica\códigos\projetomalhaspoligonais\05-03-malhaobj.cpp
+	<windows.h>
+	"bibutil.h"
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+
+1405541361 d:\dropbox\utfpr\disciplinas\2015\2 semestre\bcc35f - computação gráfica\códigos\projetomalhaspoligonais\bibutil.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<jpeglib.h>
+
+1405911410 source:d:\dropbox\utfpr\disciplinas\2015\2 semestre\bcc35f - computação gráfica\códigos\projetomalhaspoligonais\bibutil.cpp
+	<windows.h>
+	<math.h>
+	<string.h>
+	<vector>
+	"bibutil.h"
+
+1449280903 source:/home/jfilhogn/Documentos/CompGrafica/INFERNO/ProjetoMalhasPoligonais/bibutil.cpp
+	<math.h>
+	<string.h>
+	<vector>
+	"bibutil.h"
+
+1449280914 /home/jfilhogn/Documentos/CompGrafica/INFERNO/ProjetoMalhasPoligonais/bibutil.h
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<jpeglib.h>
+
+1449545768 source:/home/jfilhogn/Documentos/CompGrafica/INFERNO/ProjetoMalhasPoligonais/05-03-MalhaOBJ.cpp
+	"bibutil.h"
+	<stdio.h>
+	<stdlib.h>
+	<GL/freeglut.h>
+
